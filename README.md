@@ -7,7 +7,7 @@ Adversarial patch attacks exploit vulnerabilities in deep learning models by cre
 - **Untargeted Success Rate**
 - **Targeted Success Rate**
 - **Transferability across models** (e.g., ResNet-18, DenseNet, VGG, MobileNet, EfficientNet)
-- - **Multiple Small Patches**
+- **Multiple Small Patches**
 
 The findings demonstrate the risks these patches pose to deep learning systems, highlighting the need for robust defenses.
 
